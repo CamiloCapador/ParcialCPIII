@@ -1,5 +1,6 @@
 fun main(args: Array<String>) {
     //Juan Camilo Garzon Capador
+    //700935
     println("Parcial 1 CPIII")
 
     val estudiante1 = Estudiante ("Camilo", "Garzon", 10035453, "Soltero", "Ingenieria de sistemas");
